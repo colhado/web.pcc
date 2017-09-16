@@ -1,5 +1,5 @@
 <?php require '../config.php';
-require(ROOT_DIR.'pages/header.php');
+require('../pages/header.php');
 ?>
 Conteúdo Pagina
-<?php require(ROOT_DIR.'pages/footer.php'); ?>
+<?php require('../pages/footer.php'); ?>
